@@ -33,5 +33,5 @@
     <symptom>misleading</symptom>
     <workaround>no</workaround>
     <comments>Возможно, следует создать отдельный шаблон письма для покупателей, которые выбрали оплату наличными при получении</comments>
-    <attachments>Можно вставить скриншот письма</attachments>
+    <attachments>*Можно вставить скриншот письма*</attachments>
 </root>
